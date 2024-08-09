@@ -13,5 +13,5 @@ Supplementary description of both model and experiments in MFCL
 - $ cd MFCL-main\MFCL-dgl\Model
 - $ python main.py
 -
--**Note**:
+- **Note**:
 - MFCL-main\MFCL-dgl\Data\kg_final.txt.zip need unzip
